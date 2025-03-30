@@ -3,14 +3,17 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/lc0808">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lc0808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc0808&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lc0808&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Carvalho github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc0808&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=lc0808&hide_border=true&theme=black-ice&background=0d1117&stroke=00bfbf&fire=00bfbf&currStreakNum=00bfbf&ring=00bfbf&currStreakLabel=00bfbf&sideNums=00bfbf&sideLabels=00bfbf&dates=00bfbf" />
+  <img width="41%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lc0808&theme=github_dark&utcOffset=-3" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lc0808&theme=tokyonight&row=1&column=6" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lc0808&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </div>
 
 ## 🚀 Sobre Mim
