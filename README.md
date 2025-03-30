@@ -70,7 +70,7 @@ Desenvolvedor Front-End apaixonado por criar interfaces intuitivas e funcionais 
   <a href="mailto:lucasvierac@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/lucas-carvalho-0808/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-carvalho-32aa70227/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
