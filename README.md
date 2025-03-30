@@ -63,16 +63,17 @@ Desenvolvedor Front-End apaixonado por criar interfaces intuitivas e funcionais 
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lc0808&theme=tokyonight)
-
-<!-- Activity Graph - Uma alternativa à animação Snake -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lc0808&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=lc0808&theme=tokyonight" />
 </div>
 
-## 📫 Entre em Contato
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=lc0808&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
 
-<div>
+<h2 align="center">📫 Entre em Contato</h2>
+
+<div align="center">
   <a href="mailto:lucasvierac@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
