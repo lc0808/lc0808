@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=535&lines=Ol%C3%A1%2C+Eu+sou+Lucas+Carvalho!+%F0%9F%91%8B;Front-end+Developer;Engenheiro+de+Software+em+Forma%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=800&lines=Ol%C3%A1%2C+Eu+sou+Lucas+Carvalho!+%F0%9F%91%8B;Front-end+Developer;Engenheiro+de+Software+em+Forma%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -34,7 +34,7 @@ Desenvolvedor Front-End apaixonado por criar interfaces intuitivas e funcionais 
   <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" />
 </div>
 
 ### Mobile & Desktop
@@ -64,6 +64,11 @@ Desenvolvedor Front-End apaixonado por criar interfaces intuitivas e funcionais 
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lc0808&theme=tokyonight)
+
+<!-- Activity Graph - Uma alternativa à animação Snake -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lc0808&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
 
 ## 📫 Entre em Contato
 
