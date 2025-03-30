@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+Eu+sou+Lucas+Carvalho!+%F0%9F%91%8B;Front-end+Developer;Engenheiro+de+Software+em+Forma%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=535&lines=Ol%C3%A1%2C+Eu+sou+Lucas+Carvalho!+%F0%9F%91%8B;Front-end+Developer;Engenheiro+de+Software+em+Forma%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -75,11 +75,3 @@ Desenvolvedor Front-End apaixonado por criar interfaces intuitivas e funcionais 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
-<div align="center">
-  <br>
-  <p align="centre"><b>Visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lc0808}/count.svg" /></p>
-</div>
-
-![Snake animation](https://github.com/lc0808/lc0808/blob/output/github-contribution-grid-snake.svg)
