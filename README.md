@@ -1,83 +1,100 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=800&lines=Ol%C3%A1%2C+Eu+sou+Lucas+Carvalho!+%F0%9F%91%8B;Front-end+Developer;Engenheiro+de+Software+em+Forma%C3%A7%C3%A3o" alt="Typing SVG" />
+  <h1>Lucas Vieira de Carvalho</h1>
+  <h3>Full Stack Developer</h3>
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,nodejs,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,angular,typescript,nodejs,nestjs,tailwind,postgresql,mongodb,git,figma&theme=dark" />
+</div>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+Desenvolvedor Full Stack com formação em Engenharia de Software, especializado em criar aplicações web escaláveis e performáticas. Trabalho com stack moderna aplicando arquiteturas robustas como DDD e Clean Architecture.
+
+- 🎓 **Formação:** Engenharia de Software - UNIPAMPA (2021-2025)
+- 💼 **Atual:** Full Stack Developer na Teasy Solutions (desde Abril/2024)
+- 🔬 **Pesquisa:** Usabilidade e UX - Bolsista PIBIC/CNPq (2022-2023)
+- 📍 **Localização:** Itapuranga, Goiás
+- 🌍 **Idiomas:** Português (Nativo), Inglês (Intermediário), Espanhol (Intermediário)
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+
+### Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+### Ferramentas & Metodologias
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Arquiteturas:** Clean Architecture, DDD, SOLID, Microsserviços  
+**Metodologias:** Scrum, Kanban, TDD, Code Review
+
+---
+
+## 💼 Experiência Profissional
+
+**Full Stack Developer** @ [Teasy Solutions](https://teasysolutions.com.br/) _(Abril 2024 - Presente)_
+
+- Desenvolvimento de aplicações web completas com React, Angular e TypeScript
+- Implementação de APIs RESTful com Node.js e NestJS aplicando DDD e Clean Architecture
+- Otimização de performance e implementação de soluções escaláveis
+- Trabalho colaborativo em metodologias ágeis (Kanban)
+
+---
+
+## 🏆 Publicações & Conquistas
+
+- 📝 **SBSI 2024** - Artigo: "What Do We Know About Usability Evaluation for Chatbots? A systematic mapping study"
+- 🎓 **Bolsista PIBIC/CNPq** (2022-2023) - Pesquisa em qualidade de uso em aplicações interativas
+- 📚 **ERES 2023** - Coautor: "Investigando a Viabilidade de Uso do UX Curve na Avaliação de Ambientes Virtuais de Aprendizagem"
+- 🎪 **Gramado Summit 2024** - Representante da Teasy Solutions
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lc0808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc0808&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc0808&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lc0808&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+---
+
+## 📫 Contato
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lc0808&theme=dracula&row=1&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-</div>
+  
+[![Email](https://img.shields.io/badge/Email-lucasvieirac.dev@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasvieirac.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--carvalho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carvalho-32aa70227/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(62)_99610--0125-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562996100125)
 
-## 🚀 Sobre Mim
-
-Desenvolvedor Front-End apaixonado por criar interfaces intuitivas e funcionais que proporcionam uma excelente experiência ao usuário. Atualmente:
-
-- 🎓 Cursando Engenharia de Software na UNIPAMPA (2021-2025)
-- 💼 Front-End Developer na Teasy Solutions
-- 🔬 Pesquisador em Usabilidade de Chatbots e UX
-- 🌍 Idiomas: Português (Nativo), Inglês (Intermediário), Espanhol (Intermediário)
-- 🎯 Foco em desenvolvimento web moderno e experiência do usuário
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Front-end
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" />
-</div>
-
-### Mobile & Desktop
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-</div>
-
-### Outras Tecnologias
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
-
-## 🏆 Conquistas & Publicações
-
-- 📝 Artigo SBSI 2024: "What Do We Know About Usability Evaluation for Chatbots?"
-- 🎓 Bolsista PIBIC/CNPq (2022-2023)
-- 📚 Coautor - Fórum de Graduação ERES 2023
-- 🎪 Participante Gramado Summit 2024
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=lc0808&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=lc0808&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
-<h2 align="center">📫 Entre em Contato</h2>
-
-<div align="center">
-  <a href="mailto:lucasvierac@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-carvalho-32aa70227/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
 </div>
