@@ -79,12 +79,12 @@ Desenvolvedor Full Stack com formação em Engenharia de Software, especializado
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lc0808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc0808&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lc0808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc0808&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lc0808&theme=tokyonight" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=lc0808&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
