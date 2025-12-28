@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Lucas Vieira de Carvalho</h1>
-  <h3>Full Stack Developer</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&lines=Ol%C3%A1%2C+Eu+sou+Lucas+Carvalho!+%F0%9F%91%8B;Full+Stack+Developer;Engenheiro+de+Software" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -73,19 +72,6 @@ Desenvolvedor Full Stack com formação em Engenharia de Software, especializado
 - 🎓 **Bolsista PIBIC/CNPq** (2022-2023) - Pesquisa em qualidade de uso em aplicações interativas
 - 📚 **ERES 2023** - Coautor: "Investigando a Viabilidade de Uso do UX Curve na Avaliação de Ambientes Virtuais de Aprendizagem"
 - 🎪 **Gramado Summit 2024** - Representante da Teasy Solutions
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lc0808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc0808&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=lc0808&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
